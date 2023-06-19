@@ -128,5 +128,5 @@ class MenuItem {
     required this.descricao,
     required this.preco,
   });
-  //Lucas esteve aqui 
+  
 }
